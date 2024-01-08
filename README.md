@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @onforthr
-
+- 👋 Hi, I’m @shendriks
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
