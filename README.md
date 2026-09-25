@@ -78,6 +78,13 @@ Pixel Art / Chiptune     ███████░░░
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![MonoGame](https://img.shields.io/badge/MonoGame-E73C00?style=flat-square&logo=monogame&logoColor=white)
+![MonoGame.Extended](https://img.shields.io/badge/MonoGame.Extended-E73C00?style=flat-square&logo=monogame&logoColor=white)
+![Tiled](https://img.shields.io/badge/Tiled-73B761?style=flat-square&logo=tiled&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
+![Furnace](https://img.shields.io/badge/Furnace-000000?style=flat-square&logo=furnace&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 ---
 
