@@ -85,6 +85,7 @@ Pixel Art / Chiptune     ███████░░░
 ![Furnace](https://img.shields.io/badge/Furnace-000000?style=flat-square&logo=furnace&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Commodore 64](https://img.shields.io/badge/Commodore%2064-4A4A9E?style=flat-square&logo=commodore&logoColor=7B7BC4)
 
 ---
 
