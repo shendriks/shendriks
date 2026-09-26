@@ -10,7 +10,7 @@ behind classic 2D games.
 
 ---
 
-### 🧠 Things I Care About
+### Things I Care About
 
 * **Maintainability** over cleverness
 * **Simple solutions** over unnecessary complexity
@@ -24,7 +24,7 @@ modernization, and pragmatic software design.
 
 ---
 
-### 🎮 Game Development
+### Game Development
 
 I'm currently developing a **2D vertical shoot-'em-up** using **C# + MonoGame**.
 
@@ -50,17 +50,15 @@ than expected.
 
 ---
 
-### 🔭 Currently Exploring
+### Currently Exploring
 
-```text
-Game Development         █████████░
-Software Architecture    ██████████
-Pixel Art / Chiptune     ███████░░░
-```
+* Game Development
+* Software Architecture
+* Pixel Art / Chiptune
 
 ---
 
-### 🏷️ The Obligatory and Incomplete Badge Collection
+### The Obligatory and Incomplete Badge Collection
 
 *In no particular order*
 
@@ -90,7 +88,7 @@ Pixel Art / Chiptune     ███████░░░
 
 ---
 
-### 📫 Find Me
+### Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/shendriks)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square\&logo=firefox\&logoColor=white)](https://shendriks.dev)
