@@ -2,11 +2,9 @@
 
 **Software Developer · Software Architecture · Game Development**
 
-I'm a software developer with **20+ years of experience**. I care about clean code, pragmatic architecture, automated
-testing, and keeping complexity under control.
+I've been a software developer for more than 20 years. Over that time I've come to care about clean code, pragmatic architecture, automated testing, and keeping complexity under control.
 
-In my spare time, I build games with **C# and MonoGame** and explore pixel art, chiptune music, and the engineering
-behind classic 2D games.
+In my spare time, I build a 2D vertical shmup with C# and MonoGame. I also dabble in pixel art and chiptune music, and I like digging into the engineering behind classic 2D games.
 
 ---
 
@@ -19,16 +17,13 @@ behind classic 2D games.
 * **Small, understandable processes**
 * **Clean code** that other developers can actually work with
 
-I'm particularly interested in **Hexagonal Architecture / Ports & Adapters**, domain modelling, legacy-code
-modernization, and pragmatic software design.
+I'm especially interested in **Hexagonal Architecture / Ports & Adapters**, domain modelling, legacy-code modernization, and pragmatic software design.
 
 ---
 
 ### Game Development
 
-I'm currently developing a **2D vertical shoot-'em-up** using **C# + MonoGame**.
-
-Think **16-bit arcade / SNES-era shmup**, but built from scratch.
+Right now I'm working on a 2D vertical shoot-'em-up in C# + MonoGame. Think 16-bit arcade / SNES-etch.
 
 ```text
 ┌─────────────────────────────────────────────┐
@@ -43,10 +38,7 @@ Think **16-bit arcade / SNES-era shmup**, but built from scratch.
 └─────────────────────────────────────────────┘
 ```
 
-I'm documenting the development process through
-a [(more or less) technical devlog](https://shendriks.dev/devlog/2d-shmup/), including architecture, collision
-detection, weapons, enemies, VFX, pixel art and the occasional bug that turns out to be considerably more complicated 
-than expected.
+I'm documenting the whole process in a [(more or less) technical devlog](https://shendriks.dev/devlog/2d-shmup/). It covers architecture, collision detection, weapons, enemies, VFX, and pixel art. It also covers the occasional bug that turns out to be a lot more complicated than I expected.
 
 ---
 
@@ -58,7 +50,7 @@ than expected.
 
 ---
 
-### The Obligatory and Incomplete Badge Collection
+### The Obligatory and Probably Incomplete Badge Collection
 
 *In no particular order*
 
