@@ -78,6 +78,8 @@ I'm documenting the whole process in a [(more or less) technical devlog](https:/
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Commodore 64](https://img.shields.io/badge/Commodore%2064-4A4A9E?logo=commodore&logoColor=7B7BC4)
 
+[![Sven Hendriks profile views](https://u8views.com/api/v1/github/profiles/100040414/views/day-week-month-total-count.svg)](https://u8views.com/github/shendriks)
+
 ---
 
 ### Find Me
